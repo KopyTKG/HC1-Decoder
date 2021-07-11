@@ -1,0 +1,21 @@
+QR Code Issuer :CZ
+QR Code Expiry :2022-06-14 12:22:55
+QR Code Generated :2021-06-14 12:22:55
+Vaccination Group
+  Unique Certificate Identifier: UVCI:FY4J6ZRYAN3GQGS68UD3P8KV89MF27BG
+  Country of Vaccination:CZ
+  Dose Number:2
+  ISO8601 complete date: Date of Vaccination:2021-06-14
+  Certificate Issuer:Ministry of Health of the Czech Republic
+  Marketing Authorization Holder:ORG-100030215
+  vaccine medicinal product:EU/1/20/1528
+  Total Series of Doses:2
+  disease or agent targeted:840539006
+  vaccine or prophylaxis:1119349007
+Date of birth:1966-02-15
+Surname(s), forename(s)
+  Surname:VEDRALOVÁ
+  Forename:RADKA
+  Standardised surname:VEDRALOVA
+  Standardised forename:RADKA
+Schema version:1.0.1

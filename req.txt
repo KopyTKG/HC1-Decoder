@@ -1,0 +1,4 @@
+flynn
+base45
+PyPDF2
+pyzbar
